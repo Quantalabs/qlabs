@@ -1,0 +1,67 @@
+{
+    "description": "A minimal blogging theme for Stackbit",
+    "header": {
+        "title": "QLabs",
+        "tagline": "Musician, developer, and hobbyist. Write articles regularly on JS, Python, and other programming related things.",
+        "background_img": "images/header-bg.jpg",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/Quantalabs",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/quantalabs",
+                "style": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "label": "Made with Stackbit.",
+                "url": "https://www.stackbit.com",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    },
+    "palette": "yellow",
+    "title": "Stackbit Fjord Theme"
+}
