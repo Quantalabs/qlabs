@@ -51,25 +51,7 @@
                 "new_window": true,
                 "style": "link"
             }
-        ],
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "GitHub",
-                "url": "https://github.com/Quantalabs",
-                "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/quantalabs",
-                "style": "icon",
-                "icon_class": "fa-dev",
-                "new_window": true
-            }
         ]
-    },
     "palette": "yellow",
     "title": "Qlabs"
 }
