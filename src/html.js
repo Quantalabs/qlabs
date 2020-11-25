@@ -6,7 +6,7 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
-        <link rel="shortcut icon" type="image/png" href="https://github.com/identicon/quantalabs.png"> 
+        <link rel="shortcut icon" type="image/png" href="https://github.com/identicons/quantalabs.png"> 
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
