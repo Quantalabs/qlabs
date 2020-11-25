@@ -4,20 +4,6 @@
         "title": "QLabs",
         "tagline": "Musician, developer, and hobbyist. Write articles regularly on JS, Python, and other programming related things.",
         "background_img": "images/header-bg.jpg",
-        "profile_img": "https://res.cloudinary.com/dxkxvfo2o/image/upload/v1580549632/selfPhoto_dfptpj.jpg",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            }
-        ],
         "has_social": true,
         "social_links": [
             {
