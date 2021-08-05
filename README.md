@@ -1,3 +1,5 @@
+**The blog has been moved to Quantalabs/blog**
+
 # My Blog
 View at [qlabs.netlify.com](https://qlabs.netlify.com).
 
